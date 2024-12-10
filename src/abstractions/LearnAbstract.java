@@ -40,12 +40,10 @@ class Human {
     }
 
 class Car extends Vehicle{
-
     @Override
     void accelerate() {
         System.out.println("Car is accelerating");
     }
-
     int brakes(int wheels) {
         System.out.println("Car brakes are pushed");
         return wheels;

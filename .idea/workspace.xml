@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e81e47c-418e-49be-b8ac-6bc6c6f01aa8" name="Changes" comment="First Commit" />
+    <list default="true" id="1e81e47c-418e-49be-b8ac-6bc6c6f01aa8" name="Changes" comment="First Commit">
+      <change beforePath="$PROJECT_DIR$/src/abstractions/LearnAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstractions/LearnAbstract.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +21,13 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/myExamples" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="my_code" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -48,79 +56,79 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Abstraction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Animal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bank.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BookManagement.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.BreakAndContinue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Car.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Diamond.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DiamondShapes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DoWhileLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dog.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Employee.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Encapsulation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EnumDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExampleOne.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExampleP.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstJava.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FlowerbedPlacement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HollowRectAngle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InnerClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LearnAbstract.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LearningInnerClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeftTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LibrarySystem.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainTwo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyFirstClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NestedLoops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromeWords.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Person.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Polymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RevString.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.RunTime$Child.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunTime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StoringArr.executor&quot;: &quot;Coverage&quot;,
-    &quot;Application.StoringIntegerInStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TableFor.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Triangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TriangleInverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VehicleSystem.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WhileLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WhilePractice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WordShapes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.abstractionTheory.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.learningInterface.executor&quot;: &quot;Run&quot;,
-    &quot;Application.polymorhismTheory.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tutorial.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/InhamKhan/Documents/Internship Work/tutorialPoints/src/myExamples&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/InhamKhan/Documents/tutorialPoints/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.gitlab.GitLabSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Abstraction.executor": "Run",
+    "Application.Animal.executor": "Run",
+    "Application.Bank.executor": "Run",
+    "Application.BookManagement.executor": "Debug",
+    "Application.BreakAndContinue.executor": "Run",
+    "Application.Car.executor": "Debug",
+    "Application.Diamond.executor": "Run",
+    "Application.DiamondShapes.executor": "Run",
+    "Application.DoWhile.executor": "Run",
+    "Application.DoWhileLoop.executor": "Run",
+    "Application.Dog.executor": "Run",
+    "Application.Employee.executor": "Run",
+    "Application.Encapsulation.executor": "Run",
+    "Application.EnumDemo.executor": "Run",
+    "Application.ExampleOne.executor": "Run",
+    "Application.ExampleP.executor": "Run",
+    "Application.FirstJava.executor": "Run",
+    "Application.FlowerbedPlacement.executor": "Run",
+    "Application.ForLoop.executor": "Run",
+    "Application.HollowRectAngle.executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.InnerClass.executor": "Run",
+    "Application.LearnAbstract.executor": "Run",
+    "Application.LearningInnerClass.executor": "Run",
+    "Application.LeftTriangle.executor": "Run",
+    "Application.LibrarySystem.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main01.executor": "Run",
+    "Application.MainTwo.executor": "Run",
+    "Application.MyClass.executor": "Run",
+    "Application.MyFirstClass.executor": "Run",
+    "Application.MyMain.executor": "Run",
+    "Application.NestedLoops.executor": "Run",
+    "Application.PalindromeWords.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.Polymorphism.executor": "Run",
+    "Application.RevString.executor": "Debug",
+    "Application.RunTime$Child.executor": "Run",
+    "Application.RunTime.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.StoringArr.executor": "Coverage",
+    "Application.StoringIntegerInStrings.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.TableFor.executor": "Debug",
+    "Application.Test.executor": "Run",
+    "Application.Triangle.executor": "Run",
+    "Application.TriangleInverse.executor": "Run",
+    "Application.VehicleSystem.executor": "Run",
+    "Application.WhileLoop.executor": "Run",
+    "Application.WhilePractice.executor": "Run",
+    "Application.WordShapes.executor": "Run",
+    "Application.abstractionTheory.Test.executor": "Run",
+    "Application.learningInterface.executor": "Run",
+    "Application.polymorhismTheory.Main.executor": "Run",
+    "Application.tutorial.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "temp-branch",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/InhamKhan/Documents/Internship Work/tutorialPoints/src/myExamples",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/InhamKhan/Documents/tutorialPoints/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.gitlab.GitLabSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.PalindromeWords">
     <configuration name="BookManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myWork.BookManagement" />
@@ -220,6 +228,7 @@
       <workItem from="1733744905500" duration="642000" />
       <workItem from="1733745632045" duration="331000" />
       <workItem from="1733807800685" duration="679000" />
+      <workItem from="1733814569328" duration="6494000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -229,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733730746976</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1733822965603</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733822965603</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +257,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
